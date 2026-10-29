@@ -1,9 +1,8 @@
-<img src="imagenes/franjas-peru.svg" width="100%" height="90" alt="Warming stripes for Peru, 1901 to 2020" />
-<sub>Annual temperature in Peru, 1901–2020, relative to 1971–2000. Each stripe is one year. Data: Berkeley Earth.</sub>
+<img src="imagenes/franjas-peru.svg" width="100%" alt="Warming stripes for Peru, 1901 to 2020: each stripe is one year, blue cooler and red warmer than the 1971-2000 average" title="Annual temperature in Peru, 1901–2020, relative to the 1971–2000 average. Each stripe is one year. Data: Berkeley Earth." />
 
 ### Hi there, I'm Cristhian
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&vCenter=true&width=560&height=36&lines=Climate+data+science;Machine+learning+for+climate+prediction;El+Ni%C3%B1o+forecasting+with+deep+learning;Andean+hydroclimate" alt="Climate data science, machine learning for climate prediction, El Niño forecasting with deep learning, Andean hydroclimate" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=26&pause=1200&vCenter=true&width=620&height=44&lines=Climate+data+science;Machine+learning+for+climate+prediction;El+Ni%C3%B1o+forecasting+with+deep+learning;Andean+hydroclimate&color=2F81F7" alt="Climate data science, machine learning for climate prediction, El Niño forecasting with deep learning, Andean hydroclimate" />
 
 Environmental engineering graduate from Cusco, Peru, working on climate data science and machine learning. This is my GitHub account, where I keep my open-source projects and the code behind my analyses.
 
