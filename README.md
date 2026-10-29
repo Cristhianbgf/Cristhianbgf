@@ -1,4 +1,9 @@
+<img src="imagenes/franjas-peru.svg" width="100%" height="90" alt="Warming stripes for Peru, 1901 to 2020" />
+<sub>Annual temperature in Peru, 1901–2020, relative to 1971–2000. Each stripe is one year. Data: Berkeley Earth.</sub>
+
 ### Hi there, I'm Cristhian
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&vCenter=true&width=560&height=36&lines=Climate+data+science;Machine+learning+for+climate+prediction;El+Ni%C3%B1o+forecasting+with+deep+learning;Andean+hydroclimate" alt="Climate data science, machine learning for climate prediction, El Niño forecasting with deep learning, Andean hydroclimate" />
 
 Environmental engineering graduate from Cusco, Peru, working on climate data science and machine learning. This is my GitHub account, where I keep my open-source projects and the code behind my analyses.
 
@@ -6,17 +11,33 @@ Environmental engineering graduate from Cusco, Peru, working on climate data sci
 
 Most of my work applies deep learning and data science to climate and hydrology, from El Niño forecasting with climate model output (CMIP6) and reanalysis (ERA5) to water balance and trend analysis with gridded climate data. I'm also moving into climate change and sustainability consulting, where climate data and models inform physical climate-risk and adaptation decisions.
 
-## Tools
+I’m open to collaborating on climate and water projects, and I’m currently expanding my skills in machine learning and deep learning.
 
-| Area | Tools |
-|---|---|
-| Data science | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| Machine learning | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
-| Deep learning | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white) |
-| Climate data and models | ![xarray](https://img.shields.io/badge/xarray-216C89?style=flat-square) ![Pangeo](https://img.shields.io/badge/Pangeo-3B5B92?style=flat-square) ![CMIP6](https://img.shields.io/badge/CMIP6-0B6E99?style=flat-square) ![ERA5](https://img.shields.io/badge/ERA5-0B6E99?style=flat-square) ![PISCO](https://img.shields.io/badge/PISCO-0B6E99?style=flat-square) |
-| Geospatial | ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=arcgis&logoColor=white) ![Earth Engine](https://img.shields.io/badge/Earth_Engine-4285F4?style=flat-square&logo=googleearthengine&logoColor=white) ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=geopandas&logoColor=white) ![rasterio](https://img.shields.io/badge/rasterio-5D6D7E?style=flat-square) |
-| Reproducibility | ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+## Tech Stack
 
-## Links
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI1IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjV6TTcuMTE5IDIwLjQ1MkgzLjU1NVY5aDMuNTY0djExLjQ1MnoiLz48L3N2Zz4%3D)](https://www.linkedin.com/in/cbgamarraf-7943b2283/)
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="iconos/titulo-datos-oscuro.svg"><img src="iconos/titulo-datos-claro.svg" width="20" height="20" alt=""></picture> Data Science</h3>
+<img src="iconos/datos.svg" alt="Python, R, pandas, NumPy, Jupyter" />
+<br/><sub>Python • R • pandas • NumPy • Matplotlib • Jupyter</sub>
+</td>
+<td width="50%" align="center" valign="top">
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="iconos/titulo-ml-oscuro.svg"><img src="iconos/titulo-ml-claro.svg" width="20" height="20" alt=""></picture> Machine & Deep Learning</h3>
+<img src="iconos/ml.svg" alt="scikit-learn, PyTorch, TensorFlow, Google Colab" />
+<br/><sub>scikit-learn • PyTorch • TensorFlow • Google Colab</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="iconos/titulo-clima-oscuro.svg"><img src="iconos/titulo-clima-claro.svg" width="20" height="20" alt=""></picture> Climate Models & Geospatial Data</h3>
+<img src="iconos/clima.svg" alt="xarray, Dask, Earth Engine, ArcGIS, QGIS, GeoPandas" />
+<br/><sub>xarray • Dask • Pangeo • CMIP6 • ERA5 • PISCO • Earth Engine • ArcGIS • QGIS • GeoPandas • rasterio</sub>
+</td>
+<td width="50%" align="center" valign="top">
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="iconos/titulo-reproducibilidad-oscuro.svg"><img src="iconos/titulo-reproducibilidad-claro.svg" width="20" height="20" alt=""></picture> Reproducibility</h3>
+<img src="iconos/reproducibilidad.svg" alt="Anaconda, Docker, pytest, Git, GitHub, Markdown" />
+<br/><sub>Anaconda • Docker • pytest • Git • GitHub • Markdown</sub>
+</td>
+</tr>
+</table>
