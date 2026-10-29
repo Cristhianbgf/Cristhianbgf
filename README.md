@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Cristhian
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=26&pause=1200&vCenter=true&width=620&height=44&lines=Climate+data+science;Machine+learning+for+climate+prediction;El+Ni%C3%B1o+forecasting+with+deep+learning;Andean+hydroclimate&color=2F81F7" alt="Climate data science, machine learning for climate prediction, El Niño forecasting with deep learning, Andean hydroclimate" />
+<img src="imagenes/presentacion.svg" alt="Climate data science, machine learning for climate prediction, El Niño forecasting with deep learning, Andean hydroclimate" />
 
 Environmental engineering graduate from Cusco, Peru, working on climate data science and machine learning. This is my GitHub account, where I keep my open-source projects and the code behind my analyses.
 
