@@ -1,10 +1,16 @@
 <img src="imagenes/franjas-peru.svg" width="100%" alt="Warming stripes for Peru, 1901 to 2020: each stripe is one year, blue cooler and red warmer than the 1971-2000 average" title="Annual temperature in Peru, 1901–2020, relative to the 1971–2000 average. Each stripe is one year. Data: Berkeley Earth." />
 
-### Hi, I'm Cristhian
+### Hi there, I'm Cristhian
 
-BSc in Environmental Engineering (Universidad Andina del Cusco) from Cusco, Peru. I turn climate and air-quality data into products people can use to plan: bias-adjusted climate projections, climate extreme indices and machine-learning early warnings, built with Python and R and published as reproducible code.
+<img src="imagenes/presentacion.svg" alt="Climate data science, machine learning for climate prediction, El Niño forecasting with deep learning, Andean hydroclimate" />
 
-Before moving into climate data I worked on electrical infrastructure projects (substation detail engineering and easement surveys for power lines) and on hazardous waste supervision, so I know how field work and engineering deliverables feed into decisions.
+Environmental engineering graduate from Cusco, Peru, working on climate data science and machine learning. This is my GitHub account, where I keep my open-source projects and the code behind my analyses.
+
+## Research
+
+Most of my work applies deep learning and data science to climate and hydrology, from El Niño forecasting with climate model output (CMIP6) and reanalysis (ERA5) to water balance and trend analysis with gridded climate data. I'm also moving into climate change and sustainability consulting, where climate data and models inform physical climate-risk and adaptation decisions.
+
+I’m open to collaborating on climate and water projects, and I’m currently expanding my skills in machine learning and deep learning.
 
 ## Projects
 
@@ -14,15 +20,34 @@ Before moving into climate data I worked on electrical infrastructure projects (
 
 **PM10 early warning for a mine** · LightGBM model that warns 2 hours ahead whether PM10 will exceed each station's internal limit (77 % of exceedances detected vs 16 % for persistence), compared with a Temporal Fusion Transformer. The data belong to the mine, so the code is not public.
 
-## Skills
+## Tech Stack
 
-| | |
-|---|---|
-| **Languages** | Python, R, Java |
-| **Software** | Linux (Ubuntu), ArcGIS, QGIS, Google Earth Engine, AutoCAD |
-| **Tools** | RStudio, Jupyter, Anaconda |
-| **Reproducible research** | Git, GitHub, Docker |
-| **Capabilities** | climate projections, hydrology, spatial analysis, machine and deep learning |
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="iconos/titulo-datos-oscuro.svg"><img src="iconos/titulo-datos-claro.svg" width="20" height="20" alt=""></picture> Data Science</h3>
+<img src="iconos/datos.svg" alt="Python, R, pandas, NumPy, Jupyter" />
+<br/><sub>Python • R • Java • pandas • NumPy • Matplotlib • Jupyter • RStudio</sub>
+</td>
+<td width="50%" align="center" valign="top">
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="iconos/titulo-ml-oscuro.svg"><img src="iconos/titulo-ml-claro.svg" width="20" height="20" alt=""></picture> Machine & Deep Learning</h3>
+<img src="iconos/ml.svg" alt="scikit-learn, PyTorch, TensorFlow, Google Colab" />
+<br/><sub>scikit-learn • LightGBM • PyTorch • TensorFlow • Google Colab</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="iconos/titulo-clima-oscuro.svg"><img src="iconos/titulo-clima-claro.svg" width="20" height="20" alt=""></picture> Climate & Geospatial Data</h3>
+<img src="iconos/clima.svg" alt="xarray, Earth Engine, ArcGIS, QGIS" />
+<br/><sub>xarray • CMIP6 • ERA5 • PISCO • Earth Engine • ArcGIS • QGIS • AutoCAD</sub>
+</td>
+<td width="50%" align="center" valign="top">
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="iconos/titulo-reproducibilidad-oscuro.svg"><img src="iconos/titulo-reproducibilidad-claro.svg" width="20" height="20" alt=""></picture> Reproducible Research</h3>
+<img src="iconos/reproducibilidad.svg" alt="Anaconda, Docker, pytest, Git, GitHub" />
+<br/><sub>Linux (Ubuntu) • Anaconda • Docker • pytest • Git • GitHub</sub>
+</td>
+</tr>
+</table>
 
 ## Contact
 
