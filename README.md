@@ -14,6 +14,8 @@ I’m open to collaborating on climate and water projects, and I’m currently e
 
 ## Tech Stack
 
+<div align="center">
+
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
@@ -40,3 +42,5 @@ I’m open to collaborating on climate and water projects, and I’m currently e
 </td>
 </tr>
 </table>
+
+</div>
